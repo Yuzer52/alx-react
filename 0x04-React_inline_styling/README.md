@@ -1,9 +1,9 @@
-# 0x04. React inline styling
+### 0x04. React Inline Styling
 
-Learning outcomes:
+**Learning Objectives:**
 
-- the differences between using a CSS file and inline styling
-- how to use a CSS-in-JS tool like Aphrodite
-- how to use conditions within JS to apply different styles
-- how to use responsive design and make the application show a different UI according to the screen size
-- how to create small animations within the app
+1. Understand the differences between using a CSS file and applying inline styles directly in React components.
+2. Learn how to utilize CSS-in-JS libraries, such as Aphrodite, for styling React applications.
+3. Explore methods for applying different styles based on conditions in JavaScript.
+4. Discover techniques for implementing responsive design, enabling the application to adapt its UI based on varying screen sizes.
+5. Learn to create simple animations within the React application to enhance user experience.
