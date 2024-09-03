@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import React, { Fragment }from 'react';
+import React, { Fragment } from 'react';
 
 function CourseListRow({ isHeader, textFirstCell, textSecondCell }) {
 	const styleRow = { backgroundColor: '#f5f5f5ab' };

@@ -1,5 +1,5 @@
-import React from "react";
 import { shallow } from 'enzyme';
+import React from "react";
 import CourseListRow from "./CourseListRow";
 
 describe('Basic React Tests - <CourseListRow />', function() {
