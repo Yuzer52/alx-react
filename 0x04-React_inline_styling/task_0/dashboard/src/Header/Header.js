@@ -1,14 +1,19 @@
-import React from 'react';
+import React, { Fragment } from 'react';
+import logo from '../assets/holberton_logo.jpg';
 import './Header.css';
-import logo from '../assets/holberton-logo.jpg';
 
-const Header = () => {
-	return (
-		<div className='App-header'>
-			<img src={logo} alt='Holberton' />
-			<h1>School dashboard</h1>
-		</div>
-	);
-};
+
+function Header() {
+  return(
+    <Fragment>
+      <div className="App-header">
+        <img src={logo} alt="logo" />
+        <h1>
+          School dashboard
+        </h1>
+      </div>
+    </Fragment>
+  );
+}
 
 export default Header;
