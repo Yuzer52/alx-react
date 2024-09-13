@@ -2,7 +2,7 @@
 
 This project goes further in-depth in the use of React components and lifecycle methods
 
-Learning outcomes:
+Learning outcomes are:
 
 - When to use a Class or a function to create a component
 - The lifecycle of a Class component
