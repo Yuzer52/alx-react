@@ -1,8 +1,9 @@
-# 0x04. React inline styling
-```Front-end``` | ```JavaScript``` | ```ES6``` | ```React```
-## Requirements
-### General
-* All the files will be interpreted/compiled on Ubuntu 18.04 LTS using node 12.x.x and npm 6.x.x
-* Allowed editors: vi, vim, emacs, Visual Studio Code
-* All the files should end with a new line
-* A README.md file, at the root of the folder of the project, is mandatory
+### 0x04. React Inline Styling
+
+**Learning Objectives:**
+
+1. Understand the differences between using a CSS file and applying inline styles directly in React components.
+2. Learn how to utilize CSS-in-JS libraries, such as Aphrodite, for styling React applications.
+3. Explore methods for applying different styles based on conditions in JavaScript.
+4. Discover techniques for implementing responsive design, enabling the application to adapt its UI based on varying screen sizes.
+5. Learn to create simple animations within the React application to enhance user experiences.
